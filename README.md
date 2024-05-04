@@ -1,0 +1,1 @@
+Projeto consumindo API da Tabela FIPE, onde o susuário escolhe o tipo de veículo a ser pesquisado, a marca e o modelo. A aplicação retorna os dados da tabela fioe do item pesquisado. Aplicação em linha de comando.
